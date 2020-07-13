@@ -1,0 +1,4 @@
+#Mon Jul 13 11:18:11 EET 2020
+base.0=/Users/vb10/Desktop/github/MyApplication2/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
